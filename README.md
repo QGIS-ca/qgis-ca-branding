@@ -10,3 +10,6 @@ Rule
 Please always use Open Source software when creating/editing branding materials
 (such as Inkscape for creating SVGs, GIMP to create PNG, etc).  Thank-you.
 
+If you want to use an existing SVG, please use one that is license-free such as
+from Wikimedia Commons: https://commons.wikimedia.org/wiki/Main_Page
+
