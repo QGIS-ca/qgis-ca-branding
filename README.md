@@ -15,4 +15,14 @@ Rules
 
 3. If you want to use an existing SVG, please use one that is license-free such as
    from Wikimedia Commons: https://commons.wikimedia.org/wiki/Main_Page
+   
+QGIS official logo source
+=========================
+
+You can check GitHub for SVG files of the QGIS logo:
+
+- https://github.com/qgis/QGIS/tree/master/images/svg/logos
+- https://github.com/qgis/QGIS-Website-Theme/blob/main/images/large-logo.svg
+
+
 
