@@ -19,7 +19,10 @@ Rules
 QGIS official logo source
 =========================
 
-You can check GitHub for SVG files of the QGIS logo:
+The QGIS [Visual Style Guide](https://qgis.org/styleguide/) has color, font 
+guidelines, and links to download the official PNG and SVG logo files.
+
+You can also check GitHub for SVG files of the QGIS logo:
 
 - https://github.com/qgis/QGIS/tree/master/images/svg/logos
 - https://github.com/qgis/QGIS-Website-Theme/blob/main/images/large-logo.svg
