@@ -16,6 +16,10 @@ Rules
 3. If you want to use an existing SVG, please use one that is license-free such as
    from Wikimedia Commons: https://commons.wikimedia.org/wiki/Main_Page
    
+4. If you do use an existing SVG, file, or spatial data (to generate an image or 
+   poster), please always include a `source.md` file in your folder here, 
+   to point to the source of the files.
+   
 QGIS official logo source
 =========================
 
